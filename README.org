@@ -1,0 +1,13 @@
+* Oh no, had to mouse! 😖
+
+Hi! This is an issues repo from me, a person trying to go all-in on keyboards and leave that non-discrete, mouseful life behind me.
+
+I'm currently on MacOS, using Chrome with Vimium, and Spacemacs.
+
+Every time something makes me mouse, I'll come here and post an issue about it or increment an existing one.
+
+When I find a fix, I'll post the solution and close the issue.
+
+You're welcome to post your own `ohnohadtomouse` issues, and of course I'd love it if you could pitch in with solutions to existing ones.
+
+Let's keyboard! 🤘🎹😈
