@@ -8,6 +8,6 @@ Every time something makes me mouse, I'll come here and post an issue about it o
 
 When I find a fix, I'll post the solution and close the issue.
 
-You're welcome to post your own `ohnohadtomouse` issues, and of course I'd love it if you could pitch in with solutions to existing ones.
+You're welcome to post your own =ohnohadtomouse= issues, and of course I'd love it if you could pitch in with solutions to existing ones.
 
 Let's keyboard! 🤘🎹😈
